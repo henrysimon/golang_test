@@ -4,7 +4,7 @@ import "fmt"
 
 /*
 https://github.com/henrysimon/golang_test.git
-coba22
+coba33
 */
 func main() {
 	fmt.Println(123)
